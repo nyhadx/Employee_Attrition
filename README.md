@@ -1,7 +1,7 @@
 # HR Analytics Dashboard | Power BI
 
 Introduction:
-Attrition is an important metric many organizations worldwide closely monitor. It's a good way to measure health of the it's workforce and identify any potential areas for improvement. I found an open dataset on HR analytics data on kaggle for this analysis. Dataset can be found here https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset/data 
+Goal of this analysis was to identify patterns and trends that contribute to employee attrition within the company. Using key metrics such as attrition rate, I explored various factors to understand why employees were leaving. Attrition is an important metric many organizations worldwide closely monitor. It's a good way to measure the health of the workforce and identify any potential areas for improvement. I found an open dataset on HR analytics data on Kaggle for this analysis. This dataset contains various employee attributes such as gender, age, job role, attrition?, overtime? , salary etc... Dataset can be found here https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset/data 
 
 
 
@@ -9,15 +9,13 @@ Attrition is an important metric many organizations worldwide closely monitor. I
 ![Dashboard](https://github.com/nyhadx/Employee_Attrition/blob/main/HR-Dashboard.png)
 
 ## Process
-I decided to dig through the data to find out any patterns or trends in the given data that might answer the reason why employees were leaving the company.
-
-Attrition Rate is the ratio of employees who left during a period to the total employees, if there are no new hires. It's usually shown as percentage. And I used this metric to find any correlation in the dataset categories. Does increasing distance from home make them likely to leave the company? What about people who works overtime? These were the sort of question which I'm going to explore. And I made a dashboard that gives you an overall picture of all the factors that affected employee attrition.
+To uncover the reasons behind the attrition, I calculated the attrition rate. Which is the ratio of employees who left during a period to the total employees, if there are no new hires. The overall attrition rate was used to find correlations across various categories in the dataset, such as job roles, salary, overtime work, and demographics. Questions like "Does overtime increase the likelihood of leaving?" and "Are younger employees more likely to leave?" guided the exploration. An interactive dashboard was also created to visualize the factors affecting attrition.
 
 
 ## Key Findings
 
-- 235 employees left the company out of 1470, with an overall average attrition rate of 16%
-- People who work overtime are more likely to leave. In fact 3X higher attrition rate than the person who works only at normal hours. 
+- Out of 1,470 employees, 237 left the company, resulting in an overall attrition rate of approximately 16.1%
+- Employees who worked overtime had a significantly higher attrition rate (30.5%) compared to those who did not (10.4%), indicating that working overtime makes employees three times more likely to leave. 
 - Sales representatives left the most(40% attrition rate) compared to other job roles. In addition to this female HR representatives were also leaving in higher numbers.
 - Employees are more likely to leave during their first two years in the company
 - Employees who received an annual salary of less than 50k $ were 2.25X more likely to leave the company
