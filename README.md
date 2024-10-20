@@ -6,7 +6,7 @@ Attrition is an important metric many organizations worldwide closely monitor. I
 
 
 
-![Dashboard](https://)
+![Dashboard]((https://github.com/nyhadx/Employee_Attrition/blob/main/HR-Dashboard.png)
 
 ## Process
 I decided to dig through the data to find out any patterns or trends in the given data that might answer the reason why employees were leaving the company.
