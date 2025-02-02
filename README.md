@@ -25,8 +25,8 @@ To uncover the reasons behind the attrition, I calculated the attrition rate. Wh
 
 ## Recommendations
 
--Reduce Overtime Pressure: Monitor and reduce overtime by increasing the staffs or distributing the workload. Also, try rewarding overtime with incentives
--Address High Sales and Female HR Attrition: Review sales quotas, compensation and career growth for sales representative role. 
--Address Female HR Attrition: Review workplace culture, gender inequalities and conduct exit interviews
--New employees Retention: Set clear growth paths for new employees. Ensure competitive salary packages
--Engaging Young Employees: Increase socializing and team building activities for young and single employees. And conduct regular employee engagment surveys
+- Reduce Overtime Pressure: Monitor and reduce overtime by increasing the staff or distributing the workload. Also, try rewarding overtime with incentives
+- Address High Sales and Female HR Attrition: Review sales quotas, compensation, and career growth for sales representative roles. 
+- Address Female HR Attrition: Review workplace culture, and gender inequalities and conduct exit interviews
+- New employees Retention: Set clear growth paths for new employees. Ensure competitive salary packages
+- Engaging Young Employees: Increase socializing and team-building activities for young and single employees. And conduct regular employee engagement surveys
