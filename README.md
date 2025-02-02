@@ -17,8 +17,16 @@ To uncover the reasons behind the attrition, I calculated the attrition rate. Wh
 - Out of 1,470 employees, 237 left the company, resulting in an overall attrition rate of approximately 16.1%
 - Employees who worked overtime had a significantly higher attrition rate (30.5%) compared to those who did not (10.4%), indicating that working overtime makes employees three times more likely to leave. 
 - Sales representatives left the most(40% attrition rate) compared to other job roles. In addition to this female HR representatives were also leaving in higher numbers.
-- Employees are more likely to leave during their first two years in the company
-- Employees who received an annual salary of less than 50k $ were 2.25X more likely to leave the company
-- Single people were more likely to leave the company. 
+- Employees are more likely to leave during their first two years in the company. This might indicate the company's lack of a growth path or lower base pay
+- Employees who received an annual salary of less than 50k $ were 2.25X more likely to leave the company. 
+- Single people were more likely to leave the company. Might indicates lack of social connections or career outlook
 - Most people who were leaving the company were young adults in the age group 18-25. There were 2X more likely to leave
-- Employee who felt their job involement or job level to be lowest also more likely to leave
+- Employee who felt their job involvement or job level to be lowest also more likely to leave
+
+## Recommendations
+
+-Reduce Overtime Pressure: Monitor and reduce overtime by increasing the staffs or distributing the workload. Also, try rewarding overtime with incentives
+-Address High Sales and Female HR Attrition: Review sales quotas, compensation and career growth for sales representative role. 
+-Address Female HR Attrition: Review workplace culture, gender inequalities and conduct exit interviews
+-New employees Retention: Set clear growth paths for new employees. Ensure competitive salary packages
+-Engaging Young Employees: Increase socializing and team building activities for young and single employees. And conduct regular employee engagment surveys
